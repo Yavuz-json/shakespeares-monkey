@@ -1,0 +1,11 @@
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\shakespeare's_monkey_that_wrote_the_hamlet\bin\Debug\shakespeare's_monkey_that_wrote_the_hamlet.exe.config
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\shakespeare's_monkey_that_wrote_the_hamlet\bin\Debug\shakespeare's_monkey_that_wrote_the_hamlet.exe
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\shakespeare's_monkey_that_wrote_the_hamlet\bin\Debug\shakespeare's_monkey_that_wrote_the_hamlet.pdb
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\shakespeare's_monkey_that_wrote_the_hamlet\obj\Debug\shakespeare's_monkey_that_wrote_the_hamlet.csproj.AssemblyReference.cache
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\shakespeare's_monkey_that_wrote_the_hamlet\obj\Debug\shakespeare's_monkey_that_wrote_the_hamlet.csproj.SuggestedBindingRedirects.cache
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\shakespeare's_monkey_that_wrote_the_hamlet\obj\Debug\shakespeare_s_monkey_that_wrote_the_hamlet.Properties.Resources.resources
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\shakespeare's_monkey_that_wrote_the_hamlet\obj\Debug\shakespeare's_monkey_that_wrote_the_hamlet.csproj.GenerateResource.cache
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\shakespeare's_monkey_that_wrote_the_hamlet\obj\Debug\shakespeare's_monkey_that_wrote_the_hamlet.csproj.CoreCompileInputs.cache
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\shakespeare's_monkey_that_wrote_the_hamlet\obj\Debug\shakespeare's_monkey_that_wrote_the_hamlet.exe
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\shakespeare's_monkey_that_wrote_the_hamlet\obj\Debug\shakespeare's_monkey_that_wrote_the_hamlet.pdb
+C:\Users\yavzr\OneDrive\Belgeler\Programlama\C#\shakespeare's_monkey_that_wrote_the_hamlet\obj\Debug\shakespeare_s_monkey_that_wrote_the_hamlet.Form1.resources
