@@ -19,7 +19,7 @@ namespace shakespeare_s_monkey_that_wrote_the_hamlet
 
         public void loopIt()
         {
-            string charsToWrite = "Bernado. Wh'st?FciNy,wmSuflLgvK!HYpTkGbAIqM";
+            string charsToWrite = "abcdefghijklmnopqrstuvwxyz";
             textBox1.Clear();
             Random random = new Random();
             for (int i = 0; i < 515; i++)
